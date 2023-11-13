@@ -12,7 +12,7 @@
  &nbsp;
 
 
-![RODRIGO20031112 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![RODRIGO20031112 GitHub stats](https://github-readme-stats.vercel.app/api?username=RODRIGO20031112&show_icons=true&theme=radical)
 ## My Skills
 
 #### Main Stack:
