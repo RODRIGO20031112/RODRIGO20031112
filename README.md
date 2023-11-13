@@ -1,12 +1,6 @@
 
 
 <p align="center">I ❤️ solve big challenges using technology. <br/> From backend development using NodeJs to frontend development using ReactJs, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level full stack developer focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
-</div>
-
  
  &nbsp;
  &nbsp;
