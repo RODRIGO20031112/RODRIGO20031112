@@ -1,4 +1,4 @@
-
+<img style="transform: rotate(-90deg);" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" />
 
 <p align="center">I ❤️ solve big challenges using technology. <br/> From backend development using NodeJs to frontend development using ReactJs, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level full stack developer focused on web development.</p>&nbsp;
 
