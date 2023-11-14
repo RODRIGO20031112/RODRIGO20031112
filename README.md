@@ -4,7 +4,7 @@
 
 
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px; display: flex">
 
 ![Rank Circle](https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical) 
 
