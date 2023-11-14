@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
     
 <video width="560" height="315" controls>
-  <source src="./video.mp4" type="video/mp4">
+  <source src="../video.mp4" type="video/mp4">
 </video>
 
 </div>
