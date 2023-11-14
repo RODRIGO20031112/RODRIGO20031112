@@ -1,4 +1,4 @@
-<div style="transform: rotate(-90deg); position: absolute" width="100%">
+<div style="transform: rotate(90deg); position: absolute">
 <img  src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" />
 </div>
 
