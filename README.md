@@ -4,10 +4,6 @@
 
  <img src="./github.png" alt="Rank Circle">
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center" aling: center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
-</div>
-
  
  &nbsp;
  &nbsp;
@@ -61,6 +57,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
+<div style="display: flex; justify-content: center; align-items: center; text-align: center" aling: center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
+</div>
+
 &nbsp;
 &nbsp;
 
@@ -70,8 +70,5 @@
 <a href = "rodrigo.bianco.carvalho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigo-bianco-de-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
