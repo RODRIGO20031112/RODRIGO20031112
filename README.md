@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
     
-[![Assista ao vídeo](https://example.com/thumbnail.png)](../video.mp4)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 </div>
