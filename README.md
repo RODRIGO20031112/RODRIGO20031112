@@ -2,9 +2,10 @@
 
 <p align="center">I ❤️ solve big challenges using technology. <br/> From backend development using NodeJs to frontend development using ReactJs, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level full stack developer focused on web development.</p>&nbsp;
 
-<div style="display: flex; justify-content: center; align-items: center;">
+ <img src="./github.png" alt="Rank Circle">
+
+<div style="display: flex; justify-content: center; align-items: center; text-align: center" aling: center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
-    <img src="./github.png" alt="Rank Circle">
 </div>
 
  
