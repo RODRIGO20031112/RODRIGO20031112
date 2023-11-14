@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
-    <img src="![github](https://github.com/RODRIGO20031112/RODRIGO20031112/assets/105398999/dca084e0-6ba8-4c8b-b3ae-dd1f8ef30adf)" alt="Rank Circle">
+    <img src="./github.png" alt="Rank Circle">
 </div>
 
  
