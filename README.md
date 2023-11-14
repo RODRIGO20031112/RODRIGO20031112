@@ -7,9 +7,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
 </div>
 
-
-
-
  
  &nbsp;
  &nbsp;
