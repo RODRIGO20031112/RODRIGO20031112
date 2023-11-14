@@ -5,9 +5,8 @@
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical" alt="Rank Circle">
     
-<video width="560" height="315" controls>
-  <source src="../video.mp4" type="video/mp4">
-</video>
+[![Assista ao vídeo](https://example.com/thumbnail.png)](../video.mp4)
+
 
 </div>
 
