@@ -8,7 +8,7 @@
 
 ![Rank Circle](https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical) 
 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+![Rank Circle](https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=radical) 
 </div>
 
  
