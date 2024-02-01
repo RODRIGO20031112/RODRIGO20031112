@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191919&height=120&section=header"/>
 
 <p align="center">I ❤️ solve big challenges using technology. <br/> From backend development using NodeJs to frontend development using ReactJs, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level full stack developer focused on web development.</p>&nbsp;
 
