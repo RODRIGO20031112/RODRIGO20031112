@@ -59,7 +59,7 @@
 <div style="display: flex; justify-content: center; align-items: center; text-align: center" aling: center>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RODRIGO&layout=compact&hide=css,html&theme=dark" alt="Rank Circle">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&layout=donut-vertical&hide=css,html&theme=dark" alt="Rank Circle">
-    #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=dark" alt="Rank Circle">
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=dark" alt="Rank Circle"> -->
 </div>
 
 &nbsp;
