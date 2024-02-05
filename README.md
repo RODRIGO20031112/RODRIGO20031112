@@ -58,6 +58,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center" aling: center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&hide=css,html&theme=dark" alt="Rank Circle">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO20031112&layout=donut&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 &nbsp;
